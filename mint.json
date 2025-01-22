@@ -47,14 +47,15 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Paid Scripts",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "paid/settings"
+      ]
+    },
+    {
+      "group": "Free Scripts",
+      "pages": [
+        "free/settings"
       ]
     },
     {
