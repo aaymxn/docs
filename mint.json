@@ -42,8 +42,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "development"
+        "introduction"
       ]
     },
     {
@@ -59,17 +58,9 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Coming Soon",
       "pages": [
-        "more/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "more/endpoint/get",
-        "more/endpoint/create",
-        "more/endpoint/delete"
+        "more/comingsoon"
       ]
     }
   ],
