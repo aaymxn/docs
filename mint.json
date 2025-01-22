@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "More",
+      "url": "more"
     }
   ],
   "anchors": [
@@ -70,15 +70,15 @@
     {
       "group": "API Documentation",
       "pages": [
-        "api-reference/introduction"
+        "more/introduction"
       ]
     },
     {
       "group": "Endpoint Examples",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "more/endpoint/get",
+        "more/endpoint/create",
+        "more/endpoint/delete"
       ]
     }
   ],
